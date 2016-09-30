@@ -1,0 +1,5 @@
+**/data
+**/*.swp
+**/*.osm.pbf
+**/tmp
+**/flat-nodes.bin
